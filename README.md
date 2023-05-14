@@ -21,4 +21,3 @@ For instance, lets assume i'm inserting student with id 10000045. In this case, 
 
 This is a simplified view of my random generation in the uniPopulation.java class.
 
-# Note: These programs work me and my specific system (Intel based Mac on IntelliJ) so make sure to configure your settings as this program run specifications are dependent to my system (for example, enter your personal password)
